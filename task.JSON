@@ -7,14 +7,5 @@
     "priority": "-",
     "length": "1.5",
     "currentProgress": "Done"
-  },
-  {
-    "taskID": "d096eed7-e1a1-4a12-a32c-cba119b8224b",
-    "name": "task 1",
-    "assignee": "jaden reid",
-    "description": "dfgdfg",
-    "priority": "2",
-    "length": "7",
-    "currentProgress": "To Do"
   }
 ]
