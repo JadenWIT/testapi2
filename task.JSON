@@ -1,14 +1,5 @@
 [
   {
-    "taskID": "b28392a6-5fe9-4bf7-87cb-95b01f109cf0",
-    "name": "task69",
-    "assignee": "ya mom",
-    "description": "do cool stuff with her ;)",
-    "priority": "3",
-    "length": "9.5",
-    "currentProgress": "Done"
-  },
-  {
     "taskID": "759b77c0-40ef-475d-b0ce-fe414e540589",
     "name": "fghfghfh",
     "assignee": "",
@@ -16,5 +7,14 @@
     "priority": "3",
     "length": "-",
     "currentProgress": "In Progress"
+  },
+  {
+    "taskID": "b28392a6-5fe9-4bf7-87cb-95b01f109cf0",
+    "name": "task69",
+    "assignee": "ya mom",
+    "description": "do cool stuff with her ;)",
+    "priority": "3",
+    "length": "9.5",
+    "currentProgress": "To Do"
   }
 ]
