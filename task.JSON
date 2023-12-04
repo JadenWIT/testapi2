@@ -9,15 +9,6 @@
     "currentProgress": "Done"
   },
   {
-    "taskID": "cfd6d021-4432-4d6a-a146-3fa49de9e447",
-    "name": "claiming she was leaving",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "9.5",
-    "currentProgress": "Done"
-  },
-  {
     "taskID": "eaaab099-0bf7-4ca0-8d57-e550cc587d9c",
     "name": "bruh",
     "assignee": "",
@@ -25,5 +16,14 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "Done"
+  },
+  {
+    "taskID": "cfd6d021-4432-4d6a-a146-3fa49de9e447",
+    "name": "claiming she was leaving",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "length": "9.5",
+    "currentProgress": "To Do"
   }
 ]
