@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "4cb332f2-68fe-455c-9bd4-1a201921e302",
-    "name": "nice task",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "734a7fa6-6525-4116-8bc1-32bbf20baeaf",
     "name": "700 20's",
     "assignee": "jaden",
@@ -22,6 +12,16 @@
   {
     "taskID": "bf348771-b2ca-4e4a-9e76-6d50987a256b",
     "name": "test task",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "To Do",
+    "sprint": 0
+  },
+  {
+    "taskID": "4cb332f2-68fe-455c-9bd4-1a201921e302",
+    "name": "nice task",
     "assignee": "",
     "description": "",
     "priority": "-",
