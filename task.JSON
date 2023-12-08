@@ -18,20 +18,20 @@
     "sprint": 1
   },
   {
-    "taskID": "e3bc64a3-44f1-4a40-b9b2-74608023e154",
-    "name": "def check?",
-    "assignee": "",
-    "description": "",
-    "priority": "3",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "54cd3093-edd1-4a42-96a4-7ea86ff166cc",
     "name": "we are engineers",
     "assignee": "",
     "description": "",
     "priority": "2",
+    "currentProgress": "In Progress",
+    "sprint": 1
+  },
+  {
+    "taskID": "e3bc64a3-44f1-4a40-b9b2-74608023e154",
+    "name": "def check?",
+    "assignee": "",
+    "description": "",
+    "priority": "3",
     "currentProgress": "In Progress",
     "sprint": 1
   }
