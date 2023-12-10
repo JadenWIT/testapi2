@@ -27,8 +27,8 @@
     "sprint": 1
   },
   {
-    "taskID": "e3bc64a3-44f1-4a40-b9b2-74608023e154",
-    "name": "def check?",
+    "taskID": "734a7fa6-6525-4116-8bc1-32bbf20baeaf",
+    "name": "700 20's",
     "assignee": "JadenWIT",
     "description": "",
     "priority": "3",
@@ -36,12 +36,12 @@
     "sprint": 1
   },
   {
-    "taskID": "734a7fa6-6525-4116-8bc1-32bbf20baeaf",
-    "name": "700 20's",
+    "taskID": "e3bc64a3-44f1-4a40-b9b2-74608023e154",
+    "name": "def check?",
     "assignee": "JadenWIT",
     "description": "",
     "priority": "3",
-    "currentProgress": "To Do",
+    "currentProgress": "In Progress",
     "sprint": 1
   }
 ]
