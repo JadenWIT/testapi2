@@ -8,5 +8,15 @@
     "length": "1",
     "currentProgress": "To Do",
     "sprint": 0
+  },
+  {
+    "taskID": "0789b6df-727f-40f4-9553-feb0070f4428",
+    "name": "poster paper",
+    "assignee": "JadenWIT",
+    "description": "",
+    "priority": "3",
+    "length": "1",
+    "currentProgress": "To Do",
+    "sprint": 0
   }
 ]
