@@ -18,16 +18,6 @@
     "sprint": 1
   },
   {
-    "taskID": "734a7fa6-6525-4116-8bc1-32bbf20baeaf",
-    "name": "700 20's",
-    "assignee": "JadenWIT",
-    "description": "",
-    "priority": "3",
-    "length": "10",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "54cd3093-edd1-4a42-96a4-7ea86ff166cc",
     "name": "we are engineers",
     "assignee": "",
@@ -43,6 +33,16 @@
     "description": "",
     "priority": "3",
     "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "734a7fa6-6525-4116-8bc1-32bbf20baeaf",
+    "name": "700 20's",
+    "assignee": "JadenWIT",
+    "description": "",
+    "priority": "3",
+    "length": "10",
+    "currentProgress": "In Progress",
     "sprint": 1
   }
 ]
