@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "0789b6df-727f-40f4-9553-feb0070f4428",
-    "name": "poster paper",
-    "assignee": "JadenWIT",
-    "description": "",
-    "priority": "3",
-    "length": "1",
-    "currentProgress": "Done",
-    "sprint": 1
-  },
-  {
     "taskID": "40c764a3-fade-4787-a8b6-11ec8e75a253",
     "name": "swe overdue",
     "assignee": "JadenWIT",
@@ -22,6 +12,16 @@
   {
     "taskID": "24d0fa3c-e25a-4e3b-b32b-a3cca72d099a",
     "name": "aktiv chem hw",
+    "assignee": "JadenWIT",
+    "description": "",
+    "priority": "3",
+    "length": "1",
+    "currentProgress": "In Progress",
+    "sprint": 1
+  },
+  {
+    "taskID": "0789b6df-727f-40f4-9553-feb0070f4428",
+    "name": "poster paper",
     "assignee": "JadenWIT",
     "description": "",
     "priority": "3",
