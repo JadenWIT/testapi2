@@ -10,18 +10,18 @@
     "sprint": 1
   },
   {
-    "taskID": "24d0fa3c-e25a-4e3b-b32b-a3cca72d099a",
-    "name": "aktiv chem hw",
+    "taskID": "40c764a3-fade-4787-a8b6-11ec8e75a253",
+    "name": "swe overdue",
     "assignee": "JadenWIT",
     "description": "",
     "priority": "3",
     "length": "1",
-    "currentProgress": "Done",
+    "currentProgress": "In Progress",
     "sprint": 1
   },
   {
-    "taskID": "40c764a3-fade-4787-a8b6-11ec8e75a253",
-    "name": "swe overdue",
+    "taskID": "24d0fa3c-e25a-4e3b-b32b-a3cca72d099a",
+    "name": "aktiv chem hw",
     "assignee": "JadenWIT",
     "description": "",
     "priority": "3",
